@@ -1,0 +1,58 @@
+{
+  "locations": [
+    {
+      "type": "airport",
+      "airportCode": "BMI12",
+      "latitude": 54.03469688547358,
+      "longitude": 10.5623001523062
+    },
+    {
+      "type": "airport",
+      "airportCode": "DIAKO",
+      "latitude": 54.79085844540043,
+      "longitude": 9.42536767870324
+    },
+    {
+      "type": "airport",
+      "airportCode": "FEKSH",
+      "latitude": 54.06559741755555,
+      "longitude": 9.99515311049301
+    },
+    {
+      "type": "airport",
+      "airportCode": "HELIO",
+      "latitude": 54.52209642268298,
+      "longitude": 9.5699732933978
+    },
+    {
+      "type": "airport",
+      "airportCode": "KKREN",
+      "latitude": 54.2968770619949,
+      "longitude": 9.6560024069489
+    },
+    {
+      "type": "airport",
+      "airportCode": "SKLS",
+      "latitude": 53.84821590016399,
+      "longitude": 10.68732218672208
+    },
+    {
+      "type": "airport",
+      "airportCode": "UKCK0",
+      "latitude": 54.33104630198041,
+      "longitude": 10.14268688026174
+    },
+    {
+      "type": "airport",
+      "airportCode": "UKCK1",
+      "latitude": 54.35253085244344,
+      "longitude": 10.11709859000332
+    },
+    {
+      "type": "airport",
+      "airportCode": "UKCL",
+      "latitude": 53.83428670643465,
+      "longitude": 10.70708170717912
+    }
+  ]
+}

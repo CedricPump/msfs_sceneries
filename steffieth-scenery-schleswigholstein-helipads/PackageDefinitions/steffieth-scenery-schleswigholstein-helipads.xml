@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="1.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Schleswig-Holstein Helipads</Title>
+		<Manufacturer>steffieth</Manufacturer>
+		<Creator>steffieth</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\steffieth-scenery-schleswigholstein-helipads\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\steffieth-scenery-schleswigholstein-helipads\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="helipads">
+			<Type>ModelLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\modelLib\</AssetDir>
+			<OutputDir>Scenery\steffieth\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\sceneries\</AssetDir>
+			<OutputDir>Scenery\steffieth\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

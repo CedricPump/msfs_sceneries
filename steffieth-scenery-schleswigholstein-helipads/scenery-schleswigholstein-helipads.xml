@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Version="2" Name="steffieth-scenery-luebeck-helipads" FolderName="Packages" PublishingGroupFolderName="PublishingGroupsContent" MetadataFolderName="PackagesMetadata" PublishingGroupMetadataFolderName="PublishingGroupsMetadata">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<PublishingGroupTemporaryOutputDirectory>_PublishingGroupInt</PublishingGroupTemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\steffieth-scenery-schleswigholstein-helipads.xml</Package>
+	</Packages>
+	<PublishingGroups/>
+</Project>
+
