@@ -38,12 +38,6 @@
     },
     {
       "type": "airport",
-      "airportCode": "UKCK0",
-      "latitude": 54.33104630198041,
-      "longitude": 10.14268688026174
-    },
-    {
-      "type": "airport",
       "airportCode": "UKCK1",
       "latitude": 54.35253085244344,
       "longitude": 10.11709859000332
